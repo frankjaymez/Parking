@@ -1,0 +1,12 @@
+2
+Enter:
+Nahomi
+1
+Exit:
+Nahomi
+Enter:
+Tristan
+4
+Enter:
+Darrel
+40
